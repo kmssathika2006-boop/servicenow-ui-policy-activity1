@@ -10,9 +10,9 @@ SWTID-2026-1798
 
 Team Members
 
-1. Aslon Mcvin V
+1. Aslon Mcvin V (team leader)
 2. Kebison K
-3. Bararo Dhoni R M
+3. Beraro Dony R M
 4. Ashmi R
 5. Sadiqua S
 
