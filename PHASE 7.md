@@ -26,8 +26,8 @@ Implement Client Script & UI Policy (Incident)
 
 Demonstration Link
 
-[Add Demonstration Link Here]
+https://drive.google.com/file/d/1R1DEEdj2JfYMfnGh5UfGRIOJDauepx65/view?usp=drive_link
 
 GitHub Repository Link
 
-[Add GitHub Repository Link Here]
+https://github.com/kmssathika2006-boop/servicenow-ui-policy-activity1.git
