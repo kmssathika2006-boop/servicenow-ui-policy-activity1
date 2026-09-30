@@ -22,8 +22,8 @@ This project is maintained and submitted phase-wise according to the Naan Mudhal
 
 Team Members
 
-* Aslon Mcvin V - Team Member
+* Aslon Mcvin V - Team leader
 * Kebison K - Team Member
-* Bararo Dhoni R M - Team Member
+* Beraro Dony R M - Team Member
 * Ashmi R - Team Member
 * Sadiqua S - Team Member
